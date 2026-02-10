@@ -1,3 +1,5 @@
+package ru.netology;
+
 public class Post {
     public String name;
     public String passport;
